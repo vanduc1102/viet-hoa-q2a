@@ -21,19 +21,19 @@
 */
 
 	return array(
-		'1_chosen_as_best' => ' (1 chosen as best)',
+		'1_chosen_as_best' => ' (1 câu trả lời hay nhất)',
 		'1_down_vote' => '1 k thích',
 		'1_up_vote' => '1 thích',
-		'1_with_best_chosen' => ' (1 with best answer chosen)',
+		'1_with_best_chosen' => ' (đã chọn 1 câu trả lời hay nhất)',
 		'activity_by_x' => 'Hoạt động của ^',
 		'answers' => 'Trả lời:',
 		'answers_by_x' => 'Trả lời bởi ^',
 		'bonus_points' => 'Điểm thưởng:',
 		'comments' => 'Bình luận:',
-		'delete_pm_popup' => 'Delete this private message',
-		'delete_wall_post_popup' => 'Delete this wall post',
+		'delete_pm_popup' => 'Xóa thông báo riêng tư',
+		'delete_wall_post_popup' => 'Xóa bài trên tường',
 		'extra_privileges' => 'Extra privileges:',
-		'gave_out' => 'Gave out:',
+		'gave_out' => 'Đã thực hiện:',
 		'my_account_title' => 'Tài khoản của tôi',
 		'no_answers_by_x' => 'No answers by ^',
 		'no_posts_by_x' => 'No posts by ^',
@@ -64,9 +64,9 @@
 		'post_wall_button' => 'Thêm bài viết lên tường',
 		'post_wall_empty' => 'Please enter something to post on this wall',
 		'post_wall_limit' => 'You cannot write more wall posts this hour',
-		'post_wall_must_be_approved' => 'Your account must be approved to post on this wall.',
-		'post_wall_must_confirm' => 'Please ^5confirm your email address^6 to post on this wall.',
-		'post_wall_must_login' => 'Please ^1log in^2 or ^3register^4 to post on this wall.',
+		'post_wall_must_be_approved' => 'Bạn cần xác thực tài khoản để đăng bài lên tường.',
+		'post_wall_must_confirm' => 'Hãy ^5xác thực địa chỉ email^6 để đăng bài lên tường.',
+		'post_wall_must_login' => 'Hãy ^1đăng nhập^2 hoặc ^3đăng ký^4 để đăng bài lên tường.',
 		'questions' => 'Câu hỏi:',
 		'questions_by_x' => 'Câu hỏi của ^',
 		'ranked_x' => ' (hạng #^)',
@@ -83,7 +83,7 @@
 		'x_chosen_as_best' => ' (^ câu trả lời hay nhất)',
 		'x_down_votes' => '^ k thích',
 		'x_up_votes' => '^ thích',
-		'x_with_best_chosen' => ' (^ with best answer chosen)',
+		'x_with_best_chosen' => ' (đã chọn ^ câu trả lời hay nhất)',
 	);
 
 
