@@ -27,8 +27,8 @@
 		'a_followed_body' => "Your answer on ^site_title has a new related question by ^q_handle:\n\n^open^q_title^close\n\nYour answer was:\n\n^open^a_content^close\n\nClick below to answer the new question:\n\n^url\n\nThank you,\n\n^site_title",
 		'a_followed_subject' => 'Your ^site_title answer has a related question',
 
-		'a_selected_body' => "Congratulations! Your answer on ^site_title has been selected as the best by ^s_handle:\n\n^open^a_content^close\n\nThe question was:\n\n^open^q_title^close\n\nClick below to see your answer:\n\n^url\n\nThank you,\n\n^site_title",
-		'a_selected_subject' => 'Your ^site_title answer has been selected!',
+		'a_selected_body' => "Xin chúc mừng! Câu trả lời của bạn trên ^site_title đã được chọn là câu trả lời hay nhất bởi ^s_handle:\n\n^open^a_content^close\n\nCâu hỏi đó là:\n\n^open^q_title^close\n\nHãy nhấn vào đường dẫn bên dưới để xem câu trả lời của bạn:\n\n^url\n\nCám ơn,\n\n^site_title",
+		'a_selected_subject' => 'Câu trả lời của bạn trên ^site_title đã được chọn!',
 
 		'c_commented_body' => "A new comment by ^c_handle has been added after your comment on ^site_title:\n\n^open^c_content^close\n\nThe discussion is following:\n\n^open^c_context^close\n\nYou may respond by adding another comment:\n\n^url\n\nThank you,\n\n^site_title",
 		'c_commented_subject' => 'Your ^site_title comment has been added to',
@@ -65,8 +65,8 @@
 		'remoderate_body' => "An edited post by ^p_handle requires your reapproval:\n\n^open^p_context^close\n\nClick below to approve or hide the edited post:\n\n^url\n\n\nClick below to review all queued posts:\n\n^a_url\n\n\nThank you,\n\n^site_title",
 		'remoderate_subject' => '^site_title moderation',
 
-		'reset_body' => "Please click below to reset your password for ^site_title.\n\n^url\n\nAlternatively, enter the code below into the field provided.\n\nCode: ^code\n\nIf you did not ask to reset your password, please ignore this message.\n\nThank you,\n^site_title",
-		'reset_subject' => '^site_title - Reset Forgotten Password',
+		'reset_body' => "Hãy nhấn vào đây để cài lại mật khẩu của bạn trên ^site_title.\n\n^url\n\nAlternatively, enter the code below into the field provided.\n\nCode: ^code\n\nIf you did not ask to reset your password, please ignore this message.\n\nThank you,\n^site_title",
+		'reset_subject' => '^site_title - Cài lại mật khẩu đã quên',
 
 		'to_handle_prefix' => "^,\n\n",
 
@@ -74,15 +74,15 @@
 		'u_registered_subject' => '^site_title has a new registered user',
 		'u_to_approve_body' => "A new user has registered as ^u_handle.\n\nClick below to approve the user:\n\n^url\n\nClick below to review all users waiting for approval:\n\n^a_url\n\nThank you,\n\n^site_title",
 
-		'u_approved_body' => "You can see your new user profile here:\n\n^url\n\nThank you,\n\n^site_title",
-		'u_approved_subject' => 'Your ^site_title user has been approved',
+		'u_approved_body' => "Bạn có thể xem hồ sơ của mình ở đây:\n\n^url\n\nThân chào,\n\n^site_title",
+		'u_approved_subject' => 'Bạn đã là thành viên của ^site_title',
 
 		'wall_post_body' => "^f_handle has posted on your user wall at ^site_title:\n\n^open^post^close\n\nYou may respond to the post here:\n\n^url\n\nThank you,\n\n^site_title",
-		'wall_post_subject' => 'Post on your ^site_title wall',
+		'wall_post_subject' => 'Đăng bài lên tường của bạn trên ^site_title',
 
-		'welcome_body' => "Thank you for registering for ^site_title.\n\n^custom^confirmYour login details are as follows:\n\nUsername: ^handle\nEmail: ^email\n\nPlease keep this information safe for future reference.\n\nThank you,\n\n^site_title\n^url",
-		'welcome_confirm' => "Please click below to confirm your email address.\n\n^url\n\n",
-		'welcome_subject' => 'Welcome to ^site_title!',
+		'welcome_body' => "Cám ơn bạn đã đăng ký ^site_title.\n\n^custom^confirmYour login details are as follows:\n\nUsername: ^handle\nEmail: ^email\n\nPlease keep this information safe for future reference.\n\nThank you,\n\n^site_title\n^url",
+		'welcome_confirm' => "Hãy nhấn vào đường dẫn bên dưới thể xác thực email của bạn.\n\n^url\n\n",
+		'welcome_subject' => 'Chào mừng đến với ^site_title!',
 	);
 
 
