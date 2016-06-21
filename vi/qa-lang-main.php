@@ -81,7 +81,7 @@
 		'file_upload_limit_exceeded' => 'The size of the file exceeds the server\'s limits',
 		'general_error' => 'Máy chủ gặp lỗi - hãy thử lại lần nữa.',
 		'hidden' => 'ẩn',
-		'highest_users' => 'Người dùng điểm cao',
+		'highest_users' => 'Thành viên điểm cao',
 		'hot_qs_in_x' => 'Câu hỏi mới trong ^',
 		'hot_qs_title' => 'Câu hỏi mới',
 		'image_not_read' => 'Ảnh không đúng định dạng. Hãy chọn một trong những định dạng sau: ^',

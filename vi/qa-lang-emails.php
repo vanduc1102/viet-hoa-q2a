@@ -70,7 +70,7 @@
 
 		'to_handle_prefix' => "^,\n\n",
 
-		'u_registered_body' => "A new user has registered as ^u_handle.\n\nClick below to view the user profile:\n\n^url\n\nThank you,\n\n^site_title",
+		'u_registered_body' => "Một người dùng mới đã được đăng ký với tên ^u_handle.\n\nHãy nhấn vào đường dẫn để xem hồ sơ người dùng:\n\n^url\n\nCám ơn bạn,\n\n^site_title",
 		'u_registered_subject' => '^site_title has a new registered user',
 		'u_to_approve_body' => "A new user has registered as ^u_handle.\n\nClick below to approve the user:\n\n^url\n\nClick below to review all users waiting for approval:\n\n^a_url\n\nThank you,\n\n^site_title",
 
