@@ -117,7 +117,7 @@
 		'nav_tags' => 'Từ khóa',
 		'nav_unanswered' => 'Chưa có câu trả lời',
 		'nav_updates' => 'Cập nhật của bạn',
-		'nav_users' => 'Người dùng',
+		'nav_users' => 'Thành viên',
 		'no_active_users' => 'không tìm thấy người dùng tích cực',
 		'no_answers_found' => 'Không tìm thấy trả lời',
 		'no_answers_in_x' => 'Không có trả lời trong ^',
