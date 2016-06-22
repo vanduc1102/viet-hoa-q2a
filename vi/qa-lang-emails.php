@@ -30,11 +30,11 @@
 		'a_selected_body' => "Xin chúc mừng! Câu trả lời của bạn trên ^site_title đã được chọn là câu trả lời hay nhất bởi ^s_handle:\n\n^open^a_content^close\n\nCâu hỏi đó là:\n\n^open^q_title^close\n\nHãy nhấn vào đường dẫn bên dưới để xem câu trả lời của bạn:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
 		'a_selected_subject' => 'Câu trả lời của bạn trên ^site_title đã được chọn!',
 
-		'c_commented_body' => "A new comment by ^c_handle has been added after your comment on ^site_title:\n\n^open^c_content^close\n\nThe discussion is following:\n\n^open^c_context^close\n\nYou may respond by adding another comment:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
-		'c_commented_subject' => 'Your ^site_title comment has been added to',
+		'c_commented_body' => "Một bình luận mới bởi ^c_handle đã được thêm vào sau bình luận của bạn trên ^site_title:\n\n^open^c_content^close\n\nBình luận theo chủ đề:\n\n^open^c_context^close\n\nBạn có thể thêm bình luận mới vào:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
+		'c_commented_subject' => 'Bình luận của bạn trên ^site_title đã có người trả lời',
 
-		'confirm_body' => "Please click below to confirm your email address for ^site_title.\n\n^url\n\nCảm ơn bạn,\n^site_title",
-		'confirm_subject' => '^site_title - Email Address Confirmation',
+		'confirm_body' => "Hãy nhấn vào đường dẫn bên dưới để xác thực địa chỉ email của bạn trên ^site_title.\n\n^url\n\nCảm ơn bạn,\n^site_title",
+		'confirm_subject' => '^site_title - Xác thực địa chỉ email',
 
 		'feedback_body' => "Comments:\n^message\n\nName:\n^name\n\nEmail:\n^email\n\nPrevious page:\n^previous\n\nUser:\n^url\n\nIP address:\n^ip\n\nBrowser:\n^browser",
 		'feedback_subject' => '^ feedback',

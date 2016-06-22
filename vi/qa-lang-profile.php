@@ -33,7 +33,7 @@
 		'delete_pm_popup' => 'Xóa thông báo riêng tư',
 		'delete_wall_post_popup' => 'Xóa bài trên tường',
 		'extra_privileges' => 'Những quyền đặc biệt:',
-		'gave_out' => 'Đã thực hiện:',
+		'gave_out' => 'Đã đánh giá:',
 		'my_account_title' => 'Tài khoản của tôi',
 		'no_answers_by_x' => 'Không có trả lời bởi ^',
 		'no_posts_by_x' => 'Không có bài viết bởi ^',
