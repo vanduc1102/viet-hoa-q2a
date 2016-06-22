@@ -30,7 +30,7 @@
 		'a_selected_body' => "Xin chúc mừng! Câu trả lời của bạn trên ^site_title đã được chọn là câu trả lời hay nhất bởi ^s_handle:\n\n^open^a_content^close\n\nCâu hỏi đó là:\n\n^open^q_title^close\n\nHãy nhấn vào đường dẫn bên dưới để xem câu trả lời của bạn:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
 		'a_selected_subject' => 'Câu trả lời của bạn trên ^site_title đã được chọn!',
 
-		'c_commented_body' => "Một bình luận mới bởi ^c_handle đã được thêm vào sau bình luận của bạn trên ^site_title:\n\n^open^c_content^close\n\nBình luận theo chủ đề:\n\n^open^c_context^close\n\nBạn có thể thêm bình luận mới vào:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
+		'c_commented_body' => "Một bình luận mới bởi ^c_handle đã được thêm vào sau bình luận của bạn trên ^site_title:\n\n^open^c_content^close\n\nĐang bình luận theo chủ đề:\n\n^open^c_context^close\n\nBạn có thể thêm bình luận mới vào:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
 		'c_commented_subject' => 'Bình luận của bạn trên ^site_title đã có người trả lời',
 
 		'confirm_body' => "Hãy nhấn vào đường dẫn bên dưới để xác thực địa chỉ email của bạn trên ^site_title.\n\n^url\n\nCảm ơn bạn,\n^site_title",
