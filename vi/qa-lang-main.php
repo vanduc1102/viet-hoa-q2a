@@ -92,7 +92,7 @@
 		'max_length_x' => 'Số ký tự tối đa là ^ ký tự',
 		'max_upload_size_x' => 'Dung lượng ảnh tối đa là ^',
 		'me' => 'tôi',
-		'meta_order' => '^hỏi gì^khi nào^ở đâu^ai hỏi', // you can reorder but DO NOT translate! e.g. <answered> <15 hours ago> <in Problems> <by me (500 points)>
+		'meta_order' => '^what^when^where^who',  // you can reorder but DO NOT translate! e.g. <answered> <15 hours ago> <in Problems> <by me (500 points)>
 		'min_length_x' => 'Hãy thêm thông tin - ít nhất là ^ ký tự',
 		'moved' => 'moved',
 		'nav_activity' => 'Tất cả hoạt động',
