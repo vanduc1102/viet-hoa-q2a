@@ -36,22 +36,22 @@
 		'confirm_body' => "Hãy nhấn vào đường dẫn bên dưới để xác thực địa chỉ email của bạn trên ^site_title.\n\n^url\n\nCảm ơn bạn,\n^site_title",
 		'confirm_subject' => '^site_title - Xác thực địa chỉ email',
 
-		'feedback_body' => "Comments:\n^message\n\nName:\n^name\n\nEmail:\n^email\n\nPrevious page:\n^previous\n\nUser:\n^url\n\nIP address:\n^ip\n\nBrowser:\n^browser",
-		'feedback_subject' => '^ feedback',
+		'feedback_body' => "Bình luận:\n^message\n\nTên:\n^name\n\nEmail:\n^email\n\nTrang trước:\n^previous\n\nThành viên:\n^url\n\nĐịa chỉ IP:\n^ip\n\nTrình duyệt:\n^browser",
+		'feedback_subject' => '^ phản hồi',
 
-		'flagged_body' => "A post by ^p_handle has received ^flags:\n\n^open^p_context^close\n\nClick below to see the post:\n\n^url\n\n\nClick below to review all flagged posts:\n\n^a_url\n\n\nCảm ơn bạn,\n\n^site_title",
-		'flagged_subject' => '^site_title has a flagged post',
+		'flagged_body' => "Một bài viết bởi ^p_handle đã nhận được ^flags:\n\n^open^p_context^close\n\nNhấn vào bên dưới để xem bài viết:\n\n^url\n\n\nNhấn vào bên dưới để xem tất cả bài viết bị báo cáo vi phạm:\n\n^a_url\n\n\nCảm ơn bạn,\n\n^site_title",
+		'flagged_subject' => 'Một báo cao vi phạm cho bài viết trên ^site_title',
 
-		'moderate_body' => "A post by ^p_handle requires your approval:\n\n^open^p_context^close\n\nClick below to approve or reject the post:\n\n^url\n\n\nClick below to review all queued posts:\n\n^a_url\n\n\nCảm ơn bạn,\n\n^site_title",
-		'moderate_subject' => '^site_title moderation',
+		'moderate_body' => "Một bài viết bởi ^p_handle cần sự đồng ý của bạn:\n\n^open^p_context^close\n\nNhấn vào bên dưới để đồng ý hoặc từ chối bài viết:\n\n^url\n\n\nNhấn vào bên dưới để xem lại tất cả bài viết liên quan:\n\n^a_url\n\n\nCảm ơn bạn,\n\n^site_title",
+		'moderate_subject' => 'Kiểm duyệt bài viết trên  ^site_title',
 
-		'new_password_body' => "Your new password for ^site_title is below.\n\nPassword: ^password\n\nIt is recommended to change this password immediately after logging in.\n\nCảm ơn bạn,\n^site_title\n^url",
-		'new_password_subject' => '^site_title - Your New Password',
+		'new_password_body' => "Mật khẩu mới của bạn trên ^site_title ở bên dưới.\n\nMật khẩu: ^password\n\nVì lý do bảo mật, bạn nên thay đổi mật khẩu càng sớm càng tốt.\n\nCảm ơn bạn,\n^site_title\n^url",
+		'new_password_subject' => 'Mật khẩu mới của bạn trên - ^site_title',
 
-		'private_message_body' => "You have been sent a private message by ^f_handle on ^site_title:\n\n^open^message^close\n\n^moreCảm ơn bạn,\n\n^site_title\n\n\nTo block private messages, visit your account page:\n^a_url",
-		'private_message_info' => "More information about ^f_handle:\n\n^url\n\n",
-		'private_message_reply' => "Click below to reply to ^f_handle by private message:\n\n^url\n\n",
-		'private_message_subject' => 'Message from ^f_handle on ^site_title',
+		'private_message_body' => "Bạn đã nhận được một tin nhắn riêng tư bởi ^f_handle trên ^site_title:\n\n^open^message^close\n\n^moreCảm ơn bạn,\n\n^site_title\n\n\nĐể chặn tin nhắn bảo mật, hãy mở trang tài khoản của bạn:\n^a_url",
+		'private_message_info' => "Thêm thông tin về ^f_handle:\n\n^url\n\n",
+		'private_message_reply' => "Nhấn vào bên dưới để trả lời ^f_handle bằng một tin nhắn riêng tư:\n\n^url\n\n",
+		'private_message_subject' => 'Tin nhắn từ ^f_handle trên ^site_title',
 
 		'q_answered_body' => "Câu hỏi của bạn trên ^site_title đã được trả lời bởi ^a_handle:\n\n^open^a_content^close\n\nCâu hỏi của bạn là:\n\n^open^q_title^close\n\nNếu bạn thích câu trả lời này, hãy đánh dấu nó là trả lời hay nhất:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
 		'q_answered_subject' => 'Câu hỏi của bạn trên ^site_title đã được trả lời',
@@ -62,22 +62,22 @@
 		'q_posted_body' => "Một câu hỏi mới được tạo bởi ^q_handle:\n\n^open^q_title\n\n^q_content^close\n\nNhấn vào đường dẫn bên dưới để xem nội dung câu hỏi:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
 		'q_posted_subject' => '^site_title đã có một câu hỏi mới',
 
-		'remoderate_body' => "An edited post by ^p_handle requires your reapproval:\n\n^open^p_context^close\n\nClick below to approve or hide the edited post:\n\n^url\n\n\nClick below to review all queued posts:\n\n^a_url\n\n\nCảm ơn bạn,\n\n^site_title",
-		'remoderate_subject' => '^site_title moderation',
+		'remoderate_body' => "Một bài viết đã bị chỉnh sửa bởi ^p_handle cần sự đồng ý của bạn:\n\n^open^p_context^close\n\nNhấn vào đường dẫn bên dưới để đồng ý hoặc ẩn bài viết:\n\n^url\n\n\nNhấn vào đường dẫn bên dưới để xem lại tất cả bài viết liên quan:\n\n^a_url\n\n\nCảm ơn bạn,\n\n^site_title",
+		'remoderate_subject' => 'Kiểm duyệt bài viết trên ^site_title',
 
-		'reset_body' => "Hãy nhấn vào đây để cài lại mật khẩu của bạn trên ^site_title.\n\n^url\n\nAlternatively, enter the code below into the field provided.\n\nCode: ^code\n\nIf you did not ask to reset your password, please ignore this message.\n\nCảm ơn bạn,\n^site_title",
+		'reset_body' => "Hãy nhấn vào đây để cài lại mật khẩu của bạn trên ^site_title.\n\n^url\n\nHoặc, nhập đoạn mã bên dưới vào ô mã.\n\nCode: ^code\n\nNếu bạn không yêu cầu lấy lại mật khẩu, hãy bỏ qua thông báo này.\n\nCảm ơn bạn,\n^site_title",
 		'reset_subject' => '^site_title - Cài lại mật khẩu đã quên',
 
 		'to_handle_prefix' => "^,\n\n",
 
 		'u_registered_body' => "Một người dùng mới đã được đăng ký với tên ^u_handle.\n\nHãy nhấn vào đường dẫn để xem hồ sơ người dùng:\n\n^url\n\nCám ơn bạn,\n\n^site_title",
-		'u_registered_subject' => '^site_title has a new registered user',
-		'u_to_approve_body' => "A new user has registered as ^u_handle.\n\nClick below to approve the user:\n\n^url\n\nClick below to review all users waiting for approval:\n\n^a_url\n\nCảm ơn bạn,\n\n^site_title",
+		'u_registered_subject' => 'Một người dùng mới đăng ký trên ^site_title',
+		'u_to_approve_body' => "Một người dùng mới đã đăng ký với tên ^u_handle.\n\nNhấn vào đên dưới để chấp nhận người dùng:\n\n^url\n\nNhấn vào bên dưới để xem tất cả những người dùng đang chờ được chấp nhận:\n\n^a_url\n\nCảm ơn bạn,\n\n^site_title",
 
 		'u_approved_body' => "Bạn có thể xem hồ sơ của mình ở đây:\n\n^url\n\nThân chào,\n\n^site_title",
 		'u_approved_subject' => 'Bạn đã là thành viên của ^site_title',
 
-		'wall_post_body' => "^f_handle has posted on your user wall at ^site_title:\n\n^open^post^close\n\nYou may respond to the post here:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
+		'wall_post_body' => "^f_handle đã đăng một bài viết lên tường của bạn trên ^site_title:\n\n^open^post^close\n\nBạn có thể trả lời bài viết tại đây:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
 		'wall_post_subject' => 'Đăng bài lên tường của bạn trên ^site_title',
 
 		'welcome_body' => "Cám ơn bạn đã đăng ký ^site_title.\n\n^custom^confirmYour login details are as follows:\n\nUsername: ^handle\nEmail: ^email\n\nPlease keep this information safe for future reference.\n\nCảm ơn bạn,\n\n^site_title\n^url",
