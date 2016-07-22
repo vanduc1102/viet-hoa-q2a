@@ -48,7 +48,7 @@
 		'new_password_body' => "Mật khẩu mới của bạn trên ^site_title ở bên dưới.\n\nMật khẩu: ^password\n\nVì lý do bảo mật, bạn nên thay đổi mật khẩu càng sớm càng tốt.\n\nCảm ơn bạn,\n^site_title\n^url",
 		'new_password_subject' => 'Mật khẩu mới của bạn trên - ^site_title',
 
-		'private_message_body' => "Bạn đã nhận được một tin nhắn riêng tư bởi ^f_handle trên ^site_title:\n\n^open^message^close\n\n^moreCảm ơn bạn,\n\n^site_title\n\n\nĐể chặn tin nhắn bảo mật, hãy mở trang tài khoản của bạn:\n^a_url",
+		'private_message_body' => "Bạn đã nhận được một tin nhắn riêng tư bởi ^f_handle trên ^site_title:\n\n^open^message^close\n\n^moreCảm ơn bạn,\n\n^site_title\n\n\nĐể chặn tin nhắn riêng tư, hãy thay đổi cài đạt ở tài khoản của bạn:\n^a_url",
 		'private_message_info' => "Thêm thông tin về ^f_handle:\n\n^url\n\n",
 		'private_message_reply' => "Nhấn vào bên dưới để trả lời ^f_handle bằng một tin nhắn riêng tư:\n\n^url\n\n",
 		'private_message_subject' => 'Tin nhắn từ ^f_handle trên ^site_title',
@@ -80,7 +80,7 @@
 		'wall_post_body' => "^f_handle đã đăng một bài viết lên tường của bạn trên ^site_title:\n\n^open^post^close\n\nBạn có thể trả lời bài viết tại đây:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
 		'wall_post_subject' => 'Đăng bài lên tường của bạn trên ^site_title',
 
-		'welcome_body' => "Cám ơn bạn đã đăng ký ^site_title.\n\n^custom^confirmYour login details are as follows:\n\nUsername: ^handle\nEmail: ^email\n\nPlease keep this information safe for future reference.\n\nCảm ơn bạn,\n\n^site_title\n^url",
+		'welcome_body' => "Cám ơn bạn đã đăng ký ^site_title.\n\n^custom^confirmYour thông tin đăng nhập của bạn như sau:\n\nTài khoản: ^handle\nEmail: ^email\n\nHãy giữ thông tin này an toàn để tham khảo trong tương lai.\n\nCảm ơn bạn,\n\n^site_title\n^url",
 		'welcome_confirm' => "Hãy nhấn vào đường dẫn bên dưới thể xác thực email của bạn.\n\n^url\n\n",
 		'welcome_subject' => 'Chào mừng đến với ^site_title!',
 	);

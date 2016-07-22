@@ -64,7 +64,7 @@
 		'default_sidebar' => 'Chào mừng đến với  ^, nơi bạn có thể đặt câu hỏi và nhận được câu trả lời từ những thành viên khác trong cộng đồng.',
 		'default_subject' => 'A message from ^',
 		'default_suffix' => 'Q&A',
-		'default_terms' => 'I agree to the ^ Terms & Conditions and Privacy Policy',
+		'default_terms' => 'Tôi đồng ý với Điều khoản & Điều kiện và Chính sách bảo mật của ^.',
 		'do_ask_check_qs' => 'Check for similar questions when asking:',
 		'do_close_on_select' => 'Close questions with a selected answer:',
 		'do_complete_tags' => 'Show matching tags while typing:',
