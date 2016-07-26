@@ -66,13 +66,13 @@
 		'remoderate_subject' => 'Kiểm duyệt bài viết trên ^site_title',
 
 		'reset_body' => "Hãy nhấn vào đây để cài lại mật khẩu của bạn trên ^site_title.\n\n^url\n\nHoặc, nhập đoạn mã bên dưới vào ô mã.\n\nCode: ^code\n\nNếu bạn không yêu cầu lấy lại mật khẩu, hãy bỏ qua thông báo này.\n\nCảm ơn bạn,\n^site_title",
-		'reset_subject' => '^site_title - Cài lại mật khẩu đã quên',
+		'reset_subject' => '^site_title - Đặt lại mật khẩu đã quên',
 
-		'to_handle_prefix' => "^,\n\n",
+		'to_handle_prefix' => "Xin chào ^,\n\n",
 
-		'u_registered_body' => "Một người dùng mới đã được đăng ký với tên ^u_handle.\n\nHãy nhấn vào đường dẫn để xem hồ sơ người dùng:\n\n^url\n\nCám ơn bạn,\n\n^site_title",
-		'u_registered_subject' => 'Một người dùng mới đăng ký trên ^site_title',
-		'u_to_approve_body' => "Một người dùng mới đã đăng ký với tên ^u_handle.\n\nNhấn vào đên dưới để chấp nhận người dùng:\n\n^url\n\nNhấn vào bên dưới để xem tất cả những người dùng đang chờ được chấp nhận:\n\n^a_url\n\nCảm ơn bạn,\n\n^site_title",
+		'u_registered_body' => "Một thành viên mới đã được đăng ký với tên ^u_handle.\n\nHãy nhấn vào đường dẫn để xem hồ sơ thành viên:\n\n^url\n\nCám ơn bạn,\n\n^site_title",
+		'u_registered_subject' => 'Một thành viên mới đăng ký trên ^site_title',
+		'u_to_approve_body' => "Một thành viên mới đã đăng ký với tên ^u_handle.\n\nNhấn vào đên dưới để chấp nhận thành viên:\n\n^url\n\nNhấn vào bên dưới để xem tất cả những thành viên đang chờ được chấp nhận:\n\n^a_url\n\nCảm ơn bạn,\n\n^site_title",
 
 		'u_approved_body' => "Bạn có thể xem hồ sơ của mình ở đây:\n\n^url\n\nThân chào,\n\n^site_title",
 		'u_approved_subject' => 'Bạn đã là thành viên của ^site_title',
@@ -80,7 +80,7 @@
 		'wall_post_body' => "^f_handle đã đăng một bài viết lên tường của bạn trên ^site_title:\n\n^open^post^close\n\nBạn có thể trả lời bài viết tại đây:\n\n^url\n\nCảm ơn bạn,\n\n^site_title",
 		'wall_post_subject' => 'Đăng bài lên tường của bạn trên ^site_title',
 
-		'welcome_body' => "Cám ơn bạn đã đăng ký ^site_title.\n\n^custom^confirmYour thông tin đăng nhập của bạn như sau:\n\nTài khoản: ^handle\nEmail: ^email\n\nHãy giữ thông tin này an toàn để tham khảo trong tương lai.\n\nCảm ơn bạn,\n\n^site_title\n^url",
+		'welcome_body' => "Cám ơn bạn đã đăng ký thành viên ^site_title.\n\n^custom^confirmThông tin đăng nhập của bạn như sau:\n\nTài khoản: ^handle\nEmail: ^email\n\nHãy giữ thông tin này an toàn để tham khảo trong tương lai.\n\nCảm ơn bạn,\n\n^site_title\n^url",
 		'welcome_confirm' => "Hãy nhấn vào đường dẫn bên dưới thể xác thực email của bạn.\n\n^url\n\n",
 		'welcome_subject' => 'Chào mừng đến với ^site_title!',
 	);
